@@ -8,6 +8,8 @@ import org.mockito.junit.MockitoJUnitRunner;
 
 import java.util.Date;
 
+import org.junit.Assert.*;
+
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 import static org.mockito.Mockito.mock;
